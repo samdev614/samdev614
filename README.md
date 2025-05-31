@@ -9,9 +9,9 @@ I am a full-stack developer with 3 years of experience in building scalable web 
 * 🌍  I'm based in Nairobi-Kenya
 * 🖥️  See my portfolio at [PORTFOLIO](http://https://cem-tech.vercel.app/)
 * ✉️  You can contact me at [samuelwawerum21@gmail.com](mailto:samuelwawerum21@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python and Machine Learning
 * 🤝  I'm open to collaborating on AI/ML
-* ⚡  I 'm a low-key bassist
+* ⚡  I'm a low-key bassist
 
 ### Skills
 
