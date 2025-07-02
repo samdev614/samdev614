@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I am a full-stack developer with 3 years of experience in building scalable web applications using MERN STACK. I love using TypeScript, NODEJS, Express for server setup, MongoDB for databases, ReactJS, HTML & CSS, and NextJS for Frontend. I have a strong passion for web and software development, which has allowed me to make friends and work on exciting projects with clean and scalable code. What do you want me to create for you?
+I am a full-stack developer with 3 years of experience in building scalable web applications using MERN STACK. I love using TypeScript with Node.js and Express for Backend setup, MongoDB for databases, React.js, HTML, and Tailwind CSS, as well as Next.js for the Frontend. I have deep knowledge for containerization, Docker, web, and software deployment. I have a strong passion for web and software development, which has allowed me to make friends and work on exciting projects with clean and scalable code. What do you want me to create for you?
 
 * 🌍  I'm based in Nairobi-Kenya
 * 🖥️  See my portfolio at [PORTFOLIO](http://https://cem-tech.vercel.app/)
